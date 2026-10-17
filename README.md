@@ -1,16 +1,18 @@
 # 🏥 Swasthya (स्वास्थ्य सेतु) & HealthNexus Platform
 
-> **AI-Assisted Rural Healthcare Coordination, 21-State Closed-Loop Referral Engine & Longitudinal Patient EHR Platform**
-> **Problem Statement ID:** 26133 | **Theme:** MedTech / HealthTech | **Smart India Hackathon 2026**
+> **AI-Assisted Rural Healthcare Coordination, 21-State Closed-Loop Referral Engine & Longitudinal Patient EHR Platform**  
+> **Problem Statement ID:** 26133 | **Theme:** MedTech / HealthTech | **Smart India Hackathon 2026**  
 > **Government of Maharashtra** — Maharashtra State Innovation Society (MSInS)
+
+**Swasthya** is an offline-first, AI-assisted rural healthcare and referral platform designed to eliminate referral drop-offs across rural health facilities. It unifies intelligent hospital capacity routing, safety-clamped clinical risk triage, on-device offline health guidance, and longitudinal EHR tracking into one cohesive system.
 
 ---
 
 ## 🌟 Overview & Core Differentiator
 
-**SwasthyaSetu** addresses the single biggest systemic breakdown in rural public healthcare delivery: **the referral black hole**. In rural healthcare networks, patients frequently get referred between Sub-Centres (SC), Primary Health Centres (PHC), Community Health Centres (CHC), Sub-District Hospitals (SDH), and District Hospitals (DH) with fragmented physical paper slips and zero tracking of whether the patient ever reached the facility or received completed treatment.
+**Swasthya** addresses the single biggest systemic breakdown in rural public healthcare delivery: **the referral black hole**. In rural healthcare networks, patients frequently get referred between Sub-Centres (SC), Primary Health Centres (PHC), Community Health Centres (CHC), Sub-District Hospitals (SDH), and District Hospitals (DH) with fragmented physical paper slips and zero tracking of whether the patient ever reached the facility or received completed treatment.
 
-SwasthyaSetu bridges this gap with an **offline-first, 21-state closed-loop referral state machine**, **smart capacity-aware Hospital Facility matching**, **AI clinical risk triage with deterministic safety clamps**, **an offline on-device AI health assistant**, **citizen bed & service booking with live timeline tracking**, **internal doctor queue assignment**, **longitudinal EHR & multimodal lab report summarization**, and **cryptographically verifiable SHA-256 audit chaining**.
+Swasthya bridges this gap with an **offline-first, 21-state closed-loop referral state machine**, **smart capacity-aware Hospital Facility matching**, **AI clinical risk triage with deterministic safety clamps**, **an offline on-device AI health assistant**, **citizen bed & service booking with live timeline tracking**, **internal doctor queue assignment**, **longitudinal EHR & multimodal lab report summarization**, and **cryptographically verifiable SHA-256 audit chaining**.
 
 ---
 
