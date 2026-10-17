@@ -1,6 +1,7 @@
 {
   "name": "swasthya",
   "version": "1.0.0",
+  "description": "AI-assisted rural healthcare coordination, closed-loop referral engine, and longitudinal patient EHR platform.",
   "private": true,
   "scripts": {
     "build": "cd frontend_react && npm install && npm run build",
